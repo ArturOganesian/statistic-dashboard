@@ -1,7 +1,8 @@
 
 export default function Home() {
   return (
-   <main>
+   <main className="bg-custom-gradient opacity-60 h-[100vh] w-[100vw]">
+    sadf
 
    </main>
   );
